@@ -3,14 +3,9 @@
 
 
 
-Olakunle Samagbeyi. Cloud and iOS App Developer
-
-<!--
+Olakunle Samagbeyi. Cloud and iOS App Developer.
 
 - Pronouns: He/Him
-
-
--->
 
 <!--
 **OlaSam/OlaSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
