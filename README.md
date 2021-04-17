@@ -3,14 +3,11 @@
 
 
 
-Welcome to the party 
+Olakunle Samagbeyi. Cloud and iOS App Developer
 
-Welcome to the party, aye
+<!--
 
-Welcome to the party, aye
-
-Welcome to the party
-
+- Pronouns: He/Him
 
 
 <!--
