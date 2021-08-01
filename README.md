@@ -3,7 +3,7 @@
 
 
 
-Olakunle Samagbeyi. Cloud and iOS App Developer.
+Olakunle Samagbeyi. Cloud and iOS Engineer.
 
 - Pronouns: He/Him
 
