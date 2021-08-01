@@ -3,7 +3,8 @@
 
 
 
-Olakunle Samagbeyi. Cloud and iOS Engineer.
+Olakunle Samagbeyi
+Cloud and iOS Engineer.
 
 - He/Him
 
